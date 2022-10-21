@@ -1,2 +1,7 @@
 
+
 Beta: Milagros Luna Ip: 192.168.1.60 Hora: 11.36
+
+Nombre y Apellido: Ignacio Ramirez Gudar
+IP: 192.168.1.36
+HORA: 11:37
